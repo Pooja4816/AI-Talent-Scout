@@ -1,0 +1,2091 @@
+[
+  {
+    "id": 1,
+    "name": "Ganesh Patel",
+    "role": "Full Stack Developer",
+    "skills": [
+      "TypeScript",
+      "Docker",
+      "Node.js",
+      "GraphQL",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 2,
+    "name": "Isha Patel",
+    "role": "Data Scientist",
+    "skills": [
+      "SQL",
+      "Pandas",
+      "TensorFlow",
+      "Python",
+      "Machine Learning",
+      "PyTorch"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 3,
+    "name": "Rudra Bansal",
+    "role": "Healthcare Professional",
+    "skills": [
+      "EMR/EHR",
+      "Clinical Research",
+      "Public Health",
+      "Medical Terminology",
+      "Patient Care",
+      "CPR",
+      "Healthcare Administration"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 4,
+    "name": "Dinesh Iyer",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Monitoring",
+      "Linux",
+      "Docker",
+      "Ansible",
+      "Azure"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 5,
+    "name": "Ayaan Menon",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "SEO",
+      "Copywriting",
+      "SEM",
+      "Google Analytics",
+      "HubSpot"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 6,
+    "name": "Riya Chowdary",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Docker",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "MongoDB",
+      "Express"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 7,
+    "name": "Priya Pillai",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Clinical Research",
+      "Public Health",
+      "EMR/EHR",
+      "Data Entry",
+      "CPR",
+      "Patient Care",
+      "Healthcare Administration",
+      "Medical Terminology"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 8,
+    "name": "Aditi Kapoor",
+    "role": "UI/UX Designer",
+    "skills": [
+      "User Research",
+      "Figma",
+      "Adobe XD",
+      "Illustrator",
+      "Photoshop",
+      "Sketch",
+      "CSS",
+      "HTML"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 9,
+    "name": "Om Ayer",
+    "role": "Financial Analyst",
+    "skills": [
+      "Corporate Finance",
+      "SQL",
+      "Bloomberg",
+      "Accounting",
+      "Financial Modeling",
+      "Excel"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 10,
+    "name": "Manoj Kumar",
+    "role": "Frontend Engineer",
+    "skills": [
+      "HTML",
+      "SASS",
+      "Figma",
+      "Tailwind CSS",
+      "CSS",
+      "Next.js"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 11,
+    "name": "Rudra Kapoor",
+    "role": "Financial Analyst",
+    "skills": [
+      "Tableau",
+      "Valuation",
+      "SQL",
+      "Corporate Finance",
+      "Excel",
+      "Bloomberg",
+      "Financial Modeling",
+      "Accounting"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 12,
+    "name": "Ganesh Bhatt",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Content Marketing",
+      "SEO",
+      "Email Marketing",
+      "PPC",
+      "Marketing Strategy",
+      "SEM"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 13,
+    "name": "Varun Naidu",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Angular",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "React"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 14,
+    "name": "Aditya Pandey",
+    "role": "Backend Engineer",
+    "skills": [
+      "Go",
+      "Spring Boot",
+      "Java",
+      ".NET",
+      "Django"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 15,
+    "name": "Sneha Iyer",
+    "role": "Financial Analyst",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Python",
+      "Corporate Finance",
+      "Valuation",
+      "Accounting"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 16,
+    "name": "Varun Nath",
+    "role": "Backend Engineer",
+    "skills": [
+      "Spring Boot",
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "Node.js"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 17,
+    "name": "Kavya Chowdary",
+    "role": "Backend Engineer",
+    "skills": [
+      "Express",
+      "MongoDB",
+      "Go",
+      ".NET",
+      "Django",
+      "Java"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 18,
+    "name": "Vinay Nath",
+    "role": "Financial Analyst",
+    "skills": [
+      "Financial Modeling",
+      "Tableau",
+      "Accounting",
+      "Bloomberg",
+      "SQL"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 19,
+    "name": "Nitin Yadav",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "UI/UX",
+      "Flutter",
+      "Java",
+      "App Store Optimization",
+      "Dart",
+      "SQLite",
+      "Objective-C",
+      "Kotlin"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 20,
+    "name": "Diya Nath",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Swift",
+      "Kotlin",
+      "SQLite",
+      "Java"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 21,
+    "name": "Aarav Kapoor",
+    "role": "DevOps Engineer",
+    "skills": [
+      "AWS",
+      "Linux",
+      "CI/CD",
+      "Azure",
+      "Python",
+      "Docker",
+      "Terraform",
+      "Bash"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 22,
+    "name": "Tara Sharma",
+    "role": "Backend Engineer",
+    "skills": [
+      "Node.js",
+      "C#",
+      "Express",
+      "Python",
+      "PostgreSQL"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 23,
+    "name": "Ajay Tiwari",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "PPC",
+      "Email Marketing",
+      "Marketing Strategy",
+      "Copywriting",
+      "Social Media Management",
+      "Content Marketing"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 24,
+    "name": "Rajesh Rao",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "MongoDB",
+      "Docker",
+      "Tailwind CSS",
+      "AWS",
+      "TypeScript",
+      "Express"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 25,
+    "name": "Dinesh Das",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Figma",
+      "React",
+      "Redux",
+      "SASS",
+      "Next.js",
+      "TypeScript"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 26,
+    "name": "Shaurya Gupta",
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "Scikit-Learn",
+      "Tableau",
+      "R",
+      "NumPy",
+      "Machine Learning",
+      "Pandas"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 27,
+    "name": "Kartik Jain",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Public Health",
+      "Clinical Research",
+      "EMR/EHR",
+      "Medical Terminology"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 28,
+    "name": "Aryan Singh",
+    "role": "Full Stack Developer",
+    "skills": [
+      "React",
+      "Tailwind CSS",
+      "GraphQL",
+      "PostgreSQL",
+      "AWS",
+      "Next.js",
+      "Node.js",
+      "MongoDB"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 29,
+    "name": "Suresh Shukla",
+    "role": "Frontend Engineer",
+    "skills": [
+      "SASS",
+      "Tailwind CSS",
+      "Redux",
+      "Figma",
+      "Angular",
+      "Vue",
+      "React",
+      "JavaScript"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 30,
+    "name": "Atharva Malhotra",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Tailwind CSS",
+      "JavaScript",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 31,
+    "name": "Dinesh Chopra",
+    "role": "UI/UX Designer",
+    "skills": [
+      "User Research",
+      "Wireframing",
+      "HTML",
+      "Prototyping",
+      "Photoshop",
+      "Illustrator",
+      "Sketch",
+      "CSS"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 32,
+    "name": "Naveen Bansal",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Medical Terminology",
+      "Patient Care",
+      "Data Entry",
+      "EMR/EHR",
+      "CPR"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 33,
+    "name": "Sumit Naidu",
+    "role": "Frontend Engineer",
+    "skills": [
+      "JavaScript",
+      "Tailwind CSS",
+      "Redux",
+      "Figma",
+      "Vue",
+      "Angular"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 34,
+    "name": "Yash Reddy",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Figma",
+      "Next.js",
+      "Redux",
+      "JavaScript",
+      "CSS",
+      "Tailwind CSS",
+      "Vue",
+      "TypeScript"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 35,
+    "name": "Nikhil Malhotra",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS",
+      "JavaScript",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 36,
+    "name": "Rishabh Chopra",
+    "role": "Full Stack Developer",
+    "skills": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Tailwind CSS",
+      "AWS",
+      "PostgreSQL"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 37,
+    "name": "Manoj Shukla",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Clinical Research",
+      "EMR/EHR",
+      "Patient Care",
+      "Public Health",
+      "Medical Terminology"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 38,
+    "name": "Pradeep Ahluwalia",
+    "role": "Full Stack Developer",
+    "skills": [
+      "MongoDB",
+      "Express",
+      "Node.js",
+      "Next.js",
+      "React",
+      "TypeScript"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 39,
+    "name": "Riya Pandey",
+    "role": "Financial Analyst",
+    "skills": [
+      "Tableau",
+      "Excel",
+      "SQL",
+      "Corporate Finance",
+      "Financial Modeling",
+      "Python"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 40,
+    "name": "Tara Ahluwalia",
+    "role": "Data Scientist",
+    "skills": [
+      "TensorFlow",
+      "Python",
+      "Pandas",
+      "Spark",
+      "R",
+      "NumPy"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 41,
+    "name": "Dev Bhatt",
+    "role": "Backend Engineer",
+    "skills": [
+      "Django",
+      "Node.js",
+      "Spring Boot",
+      ".NET",
+      "Express"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 42,
+    "name": "Suresh Khanna",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Figma",
+      "HTML",
+      "Adobe XD",
+      "User Research",
+      "Sketch",
+      "Illustrator"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 43,
+    "name": "Vivaan Nair",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Tailwind CSS",
+      "JavaScript",
+      "SASS",
+      "React",
+      "Redux",
+      "Vue"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 44,
+    "name": "Dhruv Bhatt",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Google Analytics",
+      "Copywriting",
+      "SEM",
+      "HubSpot",
+      "Marketing Strategy",
+      "Content Marketing",
+      "SEO",
+      "PPC"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 45,
+    "name": "Vijay Nair",
+    "role": "Backend Engineer",
+    "skills": [
+      "Go",
+      "Spring Boot",
+      "Java",
+      "C#",
+      "Redis",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 46,
+    "name": "Isha Kapoor",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Photoshop",
+      "Adobe XD",
+      "Prototyping",
+      "Wireframing",
+      "Illustrator"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 47,
+    "name": "Ashok Sinha",
+    "role": "Frontend Engineer",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React",
+      "Tailwind CSS",
+      "Figma"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 48,
+    "name": "Pooja Nath",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Figma",
+      "Illustrator",
+      "HTML",
+      "Prototyping",
+      "CSS",
+      "Wireframing",
+      "Adobe XD",
+      "User Research"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 49,
+    "name": "Kavya Khanna",
+    "role": "Financial Analyst",
+    "skills": [
+      "Accounting",
+      "Excel",
+      "Valuation",
+      "Bloomberg"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 50,
+    "name": "Ravi Yadav",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Content Marketing",
+      "HubSpot",
+      "Copywriting",
+      "SEO",
+      "SEM",
+      "PPC",
+      "Email Marketing",
+      "Social Media Management"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 51,
+    "name": "Prakash Joshi",
+    "role": "Backend Engineer",
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "C#",
+      "Redis",
+      "AWS",
+      "Django",
+      "Go"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 52,
+    "name": "Priya Chowdary",
+    "role": "Backend Engineer",
+    "skills": [
+      "Redis",
+      "MongoDB",
+      "Node.js",
+      "Express"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 53,
+    "name": "Arun Shukla",
+    "role": "Backend Engineer",
+    "skills": [
+      "MongoDB",
+      "Redis",
+      "AWS",
+      "C#",
+      "Node.js",
+      "Express",
+      "Java",
+      "Spring Boot"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 54,
+    "name": "Mahesh Das",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Patient Care",
+      "Healthcare Administration",
+      "CPR",
+      "Public Health",
+      "EMR/EHR",
+      "Clinical Research",
+      "Medical Terminology"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 55,
+    "name": "Yash Khanna",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "SEO",
+      "HubSpot",
+      "Content Marketing",
+      "Copywriting"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 56,
+    "name": "Anil Mehta",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Docker",
+      "Tailwind CSS",
+      "MongoDB",
+      "Next.js"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 57,
+    "name": "Isha Ayer",
+    "role": "Data Scientist",
+    "skills": [
+      "R",
+      "NumPy",
+      "Spark",
+      "Machine Learning"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 58,
+    "name": "Priya Pandey",
+    "role": "Healthcare Professional",
+    "skills": [
+      "EMR/EHR",
+      "Public Health",
+      "Clinical Research",
+      "CPR"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 59,
+    "name": "Manish Joshi",
+    "role": "UI/UX Designer",
+    "skills": [
+      "HTML",
+      "Sketch",
+      "Wireframing",
+      "Figma",
+      "Interaction Design",
+      "Prototyping",
+      "Illustrator"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 60,
+    "name": "Sameer Pillai",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Terraform",
+      "AWS",
+      "Bash",
+      "Azure",
+      "Jenkins",
+      "Kubernetes",
+      "Docker",
+      "Python"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 61,
+    "name": "Atharva Chowdary",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Interaction Design",
+      "HTML",
+      "Wireframing",
+      "Prototyping",
+      "User Research",
+      "Illustrator"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 62,
+    "name": "Krishna Ayer",
+    "role": "Frontend Engineer",
+    "skills": [
+      "JavaScript",
+      "Next.js",
+      "HTML",
+      "Tailwind CSS",
+      "Vue",
+      "CSS",
+      "React"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 63,
+    "name": "Rishabh Pandey",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Kotlin",
+      "Flutter",
+      "App Store Optimization",
+      "Swift"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 64,
+    "name": "Ajay Nath",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Flutter",
+      "Objective-C",
+      "React Native",
+      "App Store Optimization",
+      "Dart"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 65,
+    "name": "Vihaan Sinha",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Linux",
+      "Kubernetes",
+      "Monitoring",
+      "AWS",
+      "Ansible",
+      "Python",
+      "Jenkins"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 66,
+    "name": "Karan Bose",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "HubSpot",
+      "Email Marketing",
+      "Copywriting",
+      "SEO",
+      "Marketing Strategy",
+      "PPC",
+      "Social Media Management",
+      "Content Marketing"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 67,
+    "name": "Rishabh Chopra",
+    "role": "Healthcare Professional",
+    "skills": [
+      "EMR/EHR",
+      "CPR",
+      "Patient Care",
+      "Clinical Research",
+      "Public Health",
+      "Medical Terminology"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 68,
+    "name": "Manish Verma",
+    "role": "Frontend Engineer",
+    "skills": [
+      "HTML",
+      "Vue",
+      "Angular",
+      "Redux"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 69,
+    "name": "Ayaan Menon",
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "R",
+      "NumPy",
+      "Tableau",
+      "Machine Learning",
+      "Scikit-Learn"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 70,
+    "name": "Maya Shukla",
+    "role": "Financial Analyst",
+    "skills": [
+      "Excel",
+      "Python",
+      "Valuation",
+      "Bloomberg",
+      "SQL",
+      "Corporate Finance",
+      "Risk Management"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 71,
+    "name": "Kiran Ahluwalia",
+    "role": "Data Scientist",
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "Scikit-Learn",
+      "TensorFlow",
+      "Pandas",
+      "NumPy"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 72,
+    "name": "Yash Chakraborty",
+    "role": "Backend Engineer",
+    "skills": [
+      "Node.js",
+      "Go",
+      "AWS",
+      "Express",
+      "C#",
+      "Python",
+      "Django"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 73,
+    "name": "Varun Sen",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Social Media Management",
+      "Email Marketing",
+      "Content Marketing",
+      "PPC",
+      "Marketing Strategy",
+      "Google Analytics",
+      "SEM"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 74,
+    "name": "Isha Bhatt",
+    "role": "Full Stack Developer",
+    "skills": [
+      "MongoDB",
+      "React",
+      "TypeScript",
+      "Next.js",
+      "JavaScript",
+      "Tailwind CSS"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 75,
+    "name": "Priya Chowdary",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Wireframing",
+      "HTML",
+      "Adobe XD",
+      "Sketch"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 76,
+    "name": "Dhruv Mehta",
+    "role": "Frontend Engineer",
+    "skills": [
+      "SASS",
+      "Tailwind CSS",
+      "Vue",
+      "Redux",
+      "JavaScript"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 77,
+    "name": "Om Garg",
+    "role": "Data Scientist",
+    "skills": [
+      "Machine Learning",
+      "Data Visualization",
+      "R",
+      "PyTorch",
+      "NumPy",
+      "Python"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 78,
+    "name": "Aryan Kumar",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Firebase",
+      "Dart",
+      "Java",
+      "App Store Optimization"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 79,
+    "name": "Ravi Jain",
+    "role": "Healthcare Professional",
+    "skills": [
+      "EMR/EHR",
+      "Public Health",
+      "Medical Terminology",
+      "Clinical Research",
+      "CPR"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 80,
+    "name": "Manish Yadav",
+    "role": "Frontend Engineer",
+    "skills": [
+      "React",
+      "Tailwind CSS",
+      "SASS",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "Redux",
+      "Vue"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 81,
+    "name": "Mukesh Chowdary",
+    "role": "Frontend Engineer",
+    "skills": [
+      "JavaScript",
+      "Vue",
+      "Angular",
+      "TypeScript",
+      "React",
+      "Redux",
+      "CSS"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 82,
+    "name": "Varun Ahluwalia",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "SEO",
+      "Email Marketing",
+      "HubSpot",
+      "SEM",
+      "Social Media Management",
+      "PPC"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 83,
+    "name": "Om Chowdary",
+    "role": "Frontend Engineer",
+    "skills": [
+      "JavaScript",
+      "Tailwind CSS",
+      "Redux",
+      "CSS",
+      "SASS",
+      "Figma"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 84,
+    "name": "Harish Pillai",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Terraform",
+      "CI/CD",
+      "Kubernetes",
+      "Docker",
+      "Bash",
+      "Linux",
+      "AWS",
+      "Ansible"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 85,
+    "name": "Dev Bhatt",
+    "role": "Frontend Engineer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vue",
+      "Next.js",
+      "HTML",
+      "Angular",
+      "Tailwind CSS"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 86,
+    "name": "Dev Iyer",
+    "role": "Data Scientist",
+    "skills": [
+      "Tableau",
+      "R",
+      "Python",
+      "NumPy",
+      "Spark",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 87,
+    "name": "Ajay Yadav",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Next.js",
+      "Docker",
+      "GraphQL",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "Tailwind CSS",
+      "MongoDB"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 88,
+    "name": "Suresh Kapoor",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Data Entry",
+      "Public Health",
+      "Medical Terminology",
+      "Patient Care",
+      "CPR",
+      "Healthcare Administration",
+      "Clinical Research"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 89,
+    "name": "Kartik Yadav",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Content Marketing",
+      "Email Marketing",
+      "SEO",
+      "Google Analytics",
+      "HubSpot"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 90,
+    "name": "Ramesh Naidu",
+    "role": "Financial Analyst",
+    "skills": [
+      "Corporate Finance",
+      "Risk Management",
+      "Python",
+      "Tableau",
+      "SQL",
+      "Accounting",
+      "Bloomberg"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 91,
+    "name": "Sunil Garg",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Interaction Design",
+      "Sketch",
+      "Figma",
+      "CSS",
+      "Adobe XD",
+      "Photoshop"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 92,
+    "name": "Manoj Nath",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Sketch",
+      "CSS",
+      "Interaction Design",
+      "Adobe XD",
+      "Figma",
+      "Photoshop",
+      "Prototyping",
+      "Wireframing"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 93,
+    "name": "Ganesh Kapoor",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Dart",
+      "Kotlin",
+      "App Store Optimization",
+      "Firebase"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 94,
+    "name": "Priya Jain",
+    "role": "Backend Engineer",
+    "skills": [
+      "Django",
+      "Redis",
+      "Express",
+      "Spring Boot",
+      "Java",
+      ".NET",
+      "Python",
+      "Go"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 95,
+    "name": "Mohit Malhotra",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Data Entry",
+      "Clinical Research",
+      "CPR",
+      "Healthcare Administration",
+      "Medical Terminology"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 96,
+    "name": "Ayaan Chowdary",
+    "role": "Financial Analyst",
+    "skills": [
+      "Excel",
+      "Python",
+      "Bloomberg",
+      "Financial Modeling"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 97,
+    "name": "Praveen Sen",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Illustrator",
+      "Interaction Design",
+      "User Research",
+      "HTML",
+      "Photoshop",
+      "Wireframing",
+      "Figma"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 98,
+    "name": "Diya Shah",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Medical Terminology",
+      "Public Health",
+      "Clinical Research",
+      "Data Entry",
+      "EMR/EHR",
+      "CPR",
+      "Patient Care",
+      "Healthcare Administration"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 99,
+    "name": "Rudra Bhatt",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Firebase",
+      "Dart",
+      "App Store Optimization",
+      "Java"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 100,
+    "name": "Ananya Nath",
+    "role": "Financial Analyst",
+    "skills": [
+      "Corporate Finance",
+      "Risk Management",
+      "Python",
+      "Tableau",
+      "SQL",
+      "Accounting"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 101,
+    "name": "Rishabh Ahluwalia",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Email Marketing",
+      "Social Media Management",
+      "SEM",
+      "Marketing Strategy",
+      "HubSpot",
+      "PPC"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 102,
+    "name": "Dinesh Bansal",
+    "role": "Frontend Engineer",
+    "skills": [
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "React",
+      "HTML"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 103,
+    "name": "Deepak Menon",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Kotlin",
+      "Swift",
+      "Firebase",
+      "Dart"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 104,
+    "name": "Manoj Khanna",
+    "role": "Frontend Engineer",
+    "skills": [
+      "SASS",
+      "CSS",
+      "React",
+      "Tailwind CSS",
+      "HTML",
+      "Redux",
+      "TypeScript",
+      "Next.js"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 105,
+    "name": "Suresh Ayer",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Copywriting",
+      "Email Marketing",
+      "Social Media Management",
+      "Content Marketing"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 106,
+    "name": "Vikram Chopra",
+    "role": "Data Scientist",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Data Visualization",
+      "Pandas"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 107,
+    "name": "Sneha Chowdary",
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "NumPy",
+      "Tableau",
+      "TensorFlow"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 108,
+    "name": "Dev Shah",
+    "role": "Financial Analyst",
+    "skills": [
+      "Corporate Finance",
+      "Valuation",
+      "Python",
+      "Risk Management",
+      "Excel",
+      "Tableau"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 109,
+    "name": "Aditi Pandey",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Kubernetes",
+      "CI/CD",
+      "Azure",
+      "Terraform",
+      "Bash",
+      "Monitoring",
+      "AWS"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 110,
+    "name": "Dev Agarwal",
+    "role": "Data Scientist",
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "SQL",
+      "R",
+      "Python",
+      "Tableau"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 111,
+    "name": "Nitin Garg",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Sketch",
+      "Illustrator",
+      "Prototyping",
+      "Adobe XD",
+      "Photoshop",
+      "CSS",
+      "User Research",
+      "Wireframing"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 112,
+    "name": "Diya Sharma",
+    "role": "Frontend Engineer",
+    "skills": [
+      "HTML",
+      "Next.js",
+      "CSS",
+      "JavaScript"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 113,
+    "name": "Ajay Shah",
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "R",
+      "TensorFlow",
+      "Scikit-Learn",
+      "Tableau",
+      "SQL",
+      "Machine Learning"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 114,
+    "name": "Aditya Bhatt",
+    "role": "Frontend Engineer",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "React",
+      "SASS",
+      "TypeScript",
+      "Figma",
+      "Redux",
+      "CSS"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 115,
+    "name": "Yash Bansal",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "Google Analytics",
+      "PPC",
+      "Marketing Strategy",
+      "Content Marketing"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 116,
+    "name": "Dinesh Pandey",
+    "role": "Data Scientist",
+    "skills": [
+      "NumPy",
+      "Scikit-Learn",
+      "Tableau",
+      "PyTorch"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 117,
+    "name": "Rishabh Bansal",
+    "role": "Backend Engineer",
+    "skills": [
+      "Node.js",
+      "C#",
+      "Django",
+      "Redis"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 118,
+    "name": "Anil Shukla",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Illustrator",
+      "Prototyping",
+      "CSS",
+      "Sketch",
+      "Wireframing",
+      "Adobe XD",
+      "Figma",
+      "Photoshop"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 119,
+    "name": "Suresh Chopra",
+    "role": "Backend Engineer",
+    "skills": [
+      "Node.js",
+      "Spring Boot",
+      "PostgreSQL",
+      ".NET",
+      "Django",
+      "Express"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 120,
+    "name": "Harish Sharma",
+    "role": "UI/UX Designer",
+    "skills": [
+      "HTML",
+      "Interaction Design",
+      "CSS",
+      "Adobe XD",
+      "Figma",
+      "Prototyping",
+      "Wireframing",
+      "Sketch"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 121,
+    "name": "Sandeep Reddy",
+    "role": "Full Stack Developer",
+    "skills": [
+      "AWS",
+      "React",
+      "MongoDB",
+      "Next.js",
+      "Docker",
+      "TypeScript"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 122,
+    "name": "Kiran Iyer",
+    "role": "Full Stack Developer",
+    "skills": [
+      "GraphQL",
+      "PostgreSQL",
+      "AWS",
+      "Express"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 123,
+    "name": "Varun Sen",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Angular",
+      "Redux",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 124,
+    "name": "Rishabh Khanna",
+    "role": "Financial Analyst",
+    "skills": [
+      "Python",
+      "Accounting",
+      "Corporate Finance",
+      "Risk Management"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 125,
+    "name": "Manish Chakraborty",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "SQLite",
+      "Firebase",
+      "Swift",
+      "Dart"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 126,
+    "name": "Riya Mehta",
+    "role": "Financial Analyst",
+    "skills": [
+      "Accounting",
+      "Corporate Finance",
+      "Bloomberg",
+      "Financial Modeling",
+      "Risk Management",
+      "Tableau",
+      "Python"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 127,
+    "name": "Sumit Kumar",
+    "role": "Full Stack Developer",
+    "skills": [
+      "Tailwind CSS",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "TypeScript",
+      "Node.js",
+      "Express"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 128,
+    "name": "Naveen Pandey",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "HubSpot",
+      "SEO",
+      "SEM",
+      "Google Analytics"
+    ],
+    "experience": "3 years"
+  },
+  {
+    "id": 129,
+    "name": "Anil Joshi",
+    "role": "Financial Analyst",
+    "skills": [
+      "Tableau",
+      "Accounting",
+      "Python",
+      "Corporate Finance",
+      "SQL"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 130,
+    "name": "Vivaan Agarwal",
+    "role": "Backend Engineer",
+    "skills": [
+      "Django",
+      "C#",
+      "Python",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 131,
+    "name": "Rakesh Bansal",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "SEO",
+      "Google Analytics",
+      "Marketing Strategy",
+      "Email Marketing",
+      "SEM",
+      "Social Media Management",
+      "PPC",
+      "HubSpot"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 132,
+    "name": "Prakash Menon",
+    "role": "Financial Analyst",
+    "skills": [
+      "Excel",
+      "Financial Modeling",
+      "Python",
+      "Accounting",
+      "Valuation",
+      "Tableau"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 133,
+    "name": "Sameer Gupta",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Redux",
+      "Next.js",
+      "HTML",
+      "CSS"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 134,
+    "name": "Arjun Singh",
+    "role": "DevOps Engineer",
+    "skills": [
+      "CI/CD",
+      "Azure",
+      "Python",
+      "Ansible",
+      "AWS",
+      "Jenkins",
+      "Bash"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 135,
+    "name": "Varun Kumar",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Angular",
+      "Figma",
+      "Tailwind CSS",
+      "SASS",
+      "HTML",
+      "Vue"
+    ],
+    "experience": "8 years"
+  },
+  {
+    "id": 136,
+    "name": "Atharva Pandey",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Figma",
+      "Illustrator",
+      "Adobe XD",
+      "HTML",
+      "Wireframing"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 137,
+    "name": "Vihaan Khanna",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Sketch",
+      "Adobe XD",
+      "HTML",
+      "Prototyping",
+      "CSS",
+      "User Research"
+    ],
+    "experience": "5 years"
+  },
+  {
+    "id": 138,
+    "name": "Om Ahluwalia",
+    "role": "Frontend Engineer",
+    "skills": [
+      "Vue",
+      "HTML",
+      "Tailwind CSS",
+      "Next.js"
+    ],
+    "experience": "1 year"
+  },
+  {
+    "id": 139,
+    "name": "Diya Patel",
+    "role": "Healthcare Professional",
+    "skills": [
+      "Patient Care",
+      "EMR/EHR",
+      "Healthcare Administration",
+      "Clinical Research"
+    ],
+    "experience": "7 years"
+  },
+  {
+    "id": 140,
+    "name": "Vijay Singh",
+    "role": "Financial Analyst",
+    "skills": [
+      "Excel",
+      "Bloomberg",
+      "Risk Management",
+      "Financial Modeling"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 141,
+    "name": "Naveen Bhatt",
+    "role": "Digital Marketing Specialist",
+    "skills": [
+      "SEO",
+      "SEM",
+      "HubSpot",
+      "Google Analytics",
+      "Copywriting",
+      "Content Marketing"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 142,
+    "name": "Vihaan Bhatt",
+    "role": "Financial Analyst",
+    "skills": [
+      "Excel",
+      "Financial Modeling",
+      "Accounting",
+      "SQL",
+      "Corporate Finance",
+      "Risk Management"
+    ],
+    "experience": "9 years"
+  },
+  {
+    "id": 143,
+    "name": "Aditya Bose",
+    "role": "Data Scientist",
+    "skills": [
+      "Spark",
+      "SQL",
+      "R",
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 144,
+    "name": "Priya Bhatt",
+    "role": "Data Scientist",
+    "skills": [
+      "Tableau",
+      "R",
+      "Python",
+      "Machine Learning",
+      "Scikit-Learn",
+      "Spark",
+      "PyTorch"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 145,
+    "name": "Dinesh Misra",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "SQLite",
+      "Swift",
+      "Flutter",
+      "Dart",
+      "React Native"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 146,
+    "name": "Vivaan Iyer",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Terraform",
+      "Linux",
+      "Monitoring",
+      "Bash"
+    ],
+    "experience": "2 years"
+  },
+  {
+    "id": 147,
+    "name": "Sumit Sinha",
+    "role": "DevOps Engineer",
+    "skills": [
+      "AWS",
+      "Ansible",
+      "Monitoring",
+      "Linux",
+      "Docker"
+    ],
+    "experience": "10+ years"
+  },
+  {
+    "id": 148,
+    "name": "Tarun Ayer",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "UI/UX",
+      "SQLite",
+      "Kotlin",
+      "Firebase"
+    ],
+    "experience": "4 years"
+  },
+  {
+    "id": 149,
+    "name": "Aryan Menon",
+    "role": "Mobile/App Developer",
+    "skills": [
+      "Dart",
+      "Kotlin",
+      "SQLite",
+      "Java"
+    ],
+    "experience": "6 years"
+  },
+  {
+    "id": 150,
+    "name": "Ganesh Verma",
+    "role": "Full Stack Developer",
+    "skills": [
+      "PostgreSQL",
+      "React",
+      "MongoDB",
+      "Node.js"
+    ],
+    "experience": "2 years"
+  }
+]
