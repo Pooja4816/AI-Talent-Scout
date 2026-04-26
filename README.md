@@ -160,30 +160,47 @@ SUPABASE_URL=your_supabase_url
 SUPABASE_KEY=your_supabase_service_key
 PORT=5000
 
- **Install Dependencies**
-   Open two separate terminals for the Frontend and Backend.
-   
-   **Terminal 1 (Backend):**
-   ```bash
-   cd server
-   npm install
-   node server.js
-   ```
 
-   **Terminal 2 (Frontend):**
-   ```bash
-   cd client
-   npm install
-   npm run dev
-   ```
 
- ###  Launch (Deployed Application)
+ ** Local Setup Instructions (Terminal-wise) **
 
-Once deployed, access the application using:
+## Prerequisites
 
--  Frontend (Vercel):  
-  https://your-project.vercel.app  
+- Node.js installed
+- npm installed
 
--  Backend (Render):  
-  https://your-backend.onrender.com  
+---
+
+##  Step 1: Clone the repository
+
+git clone https://github.com/Pooja4816/AI-Talent-Scout
+
+cd AI-Talent-Scout
+
+---
+
+## Terminal 1 → Backend (Server)
+
+cd server
+npm install
+node server.js
+
+---
+
+## Terminal 2 → Frontend (Client)
+
+cd client
+npm install
+npm run dev
+
+---
+
+##  Access the Application
+
+Frontend: http://localhost:5173
+Backend: http://localhost:5000
+
+---
+
+ 
 
