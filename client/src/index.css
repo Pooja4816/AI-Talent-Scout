@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-surface text-slate-800 font-sans antialiased selection:bg-primary-100 selection:text-primary-900;
+  }
+}
+
+/* Scrollbar for Dashboard */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-slate-400;
+}
+
+/* Action button presets for the specific UI */
+.btn-primary {
+  @apply bg-primary-600 hover:bg-primary-500 text-white font-medium px-4 py-2 rounded-lg transition-colors shadow-sm;
+}
+.btn-outline {
+  @apply bg-white border border-slate-300 text-slate-700 hover:bg-slate-50 font-medium px-4 py-2 rounded-lg transition-colors shadow-sm;
+}
+.badge-success {
+  @apply bg-success-50 text-success-600 px-2 py-0.5 rounded-full text-xs font-semibold;
+}
